@@ -1,11 +1,11 @@
 # Addzify B2B Manufacturing Playbooks & Resources
 
-Official public repository of downloadable B2B playbooks, audit checklists, and conversion frameworks for Indian manufacturers, exporters, and MSMEs.
+Free downloadable playbooks and checklists for Indian manufacturers, exporters and MSMEs.
 
-Curated and published by [@addzify62026](https://www.instagram.com/addzify62026/).
+Published by [@addzify62026](https://www.instagram.com/addzify62026/) · Book a free 15-minute audit: https://addzify.in/site/addzifyfinall/home
 
-### Available Blueprints:
-1. **Reel 01**: [B2B Website & RFQ Audit Checklist](./Addzify_Website_RFQ_Audit_Checklist.pdf)
-2. **Reel 02**: [Factory Buyer Attraction Blueprint](./Addzify_Factory_Buyer_Attraction_Blueprint.pdf)
-3. **Reel 03**: [High-Margin RFQ Follow-Up Tracker & Proof SOP](./Addzify_RFQ_Follow_Up_Tracker_SOP.pdf)
-4. **Reel 04**: [Direct B2B Buyer & Product Catalogue Playbook](./Addzify_Product_Catalogue_Playbook.pdf)
+### Available resources
+1. [B2B Buyer Attraction Blueprint](./Addzify_Factory_Buyer_Attraction_Blueprint.pdf)
+2. [Website & RFQ Conversion Checklist](./Addzify_Website_RFQ_Audit_Checklist.pdf)
+3. [RFQ Follow-Up Tracker & Closing SOP](./Addzify_RFQ_Follow_Up_Tracker_SOP.pdf)
+4. [Direct Buyer & Catalogue Playbook](./Addzify_Product_Catalogue_Playbook.pdf)
